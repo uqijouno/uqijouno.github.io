@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uqijouno.github.io/HpP/sitemap_index.txt
+Sitemap: https://uqijouno.github.io/Ngh/sitemap_index.txt
+Sitemap: https://uqijouno.github.io/PYo/sitemap_index.txt
+Sitemap: https://uqijouno.github.io/wdP/sitemap_index.txt
